@@ -1,0 +1,1040 @@
+{
+  "glyphicons": [
+    {
+      "icon": "asterisk",
+      "info": "glyphicon glyphicon-asterisk"
+    },
+    {
+      "icon": "plus",
+      "info": "glyphicon glyphicon-plus"
+    },
+    {
+      "icon": "euro",
+      "info": "glyphicon glyphicon-euro"
+    },
+    {
+      "icon": "eur",
+      "info": "glyphicon glyphicon-eur"
+    },
+    {
+      "icon": "minus",
+      "info": "glyphicon glyphicon-minus"
+    },
+    {
+      "icon": "cloud",
+      "info": "glyphicon glyphicon-cloud"
+    },
+    {
+      "icon": "envelope",
+      "info": "glyphicon glyphicon-envelope"
+    },
+    {
+      "icon": "pencil",
+      "info": "glyphicon glyphicon-pencil"
+    },
+    {
+      "icon": "glass",
+      "info": "glyphicon glyphicon-glass"
+    },
+    {
+      "icon": "music",
+      "info": "glyphicon glyphicon-music"
+    },
+    {
+      "icon": "search",
+      "info": "glyphicon glyphicon-search"
+    },
+    {
+      "icon": "heart",
+      "info": "glyphicon glyphicon-heart"
+    },
+    {
+      "icon": "star",
+      "info": "glyphicon glyphicon-star"
+    },
+    {
+      "icon": "star-empty",
+      "info": "glyphicon glyphicon-star-empty"
+    },
+    {
+      "icon": "user",
+      "info": "glyphicon glyphicon-user"
+    },
+    {
+      "icon": "film",
+      "info": "glyphicon glyphicon-film"
+    },
+    {
+      "icon": "th-large",
+      "info": "glyphicon glyphicon-th-large"
+    },
+    {
+      "icon": "th",
+      "info": "glyphicon glyphicon-th"
+    },
+    {
+      "icon": "th-list",
+      "info": "glyphicon glyphicon-th-list"
+    },
+    {
+      "icon": "ok",
+      "info": "glyphicon glyphicon-ok"
+    },
+    {
+      "icon": "remove",
+      "info": "glyphicon glyphicon-remove"
+    },
+    {
+      "icon": "zoom-in",
+      "info": "glyphicon glyphicon-zoom-in"
+    },
+    {
+      "icon": "zoom-out",
+      "info": "glyphicon glyphicon-zoom-out"
+    },
+    {
+      "icon": "off",
+      "info": "glyphicon glyphicon-off"
+    },
+    {
+      "icon": "signal",
+      "info": "glyphicon glyphicon-signal"
+    },
+    {
+      "icon": "cog",
+      "info": "glyphicon glyphicon-cog"
+    },
+    {
+      "icon": "trash",
+      "info": "glyphicon glyphicon-trash"
+    },
+    {
+      "icon": "home",
+      "info": "glyphicon glyphicon-home"
+    },
+    {
+      "icon": "file",
+      "info": "glyphicon glyphicon-file"
+    },
+    {
+      "icon": "time",
+      "info": "glyphicon glyphicon-time"
+    },
+    {
+      "icon": "road",
+      "info": "glyphicon glyphicon-road"
+    },
+    {
+      "icon": "download-alt",
+      "info": "glyphicon glyphicon-download-alt"
+    },
+    {
+      "icon": "download",
+      "info": "glyphicon glyphicon-download"
+    },
+    {
+      "icon": "upload",
+      "info": "glyphicon glyphicon-upload"
+    },
+    {
+      "icon": "inbox",
+      "info": "glyphicon glyphicon-inbox"
+    },
+    {
+      "icon": "play-circle",
+      "info": "glyphicon glyphicon-play-circle"
+    },
+    {
+      "icon": "repeat",
+      "info": "glyphicon glyphicon-repeat"
+    },
+    {
+      "icon": "refresh",
+      "info": "glyphicon glyphicon-refresh"
+    },
+    {
+      "icon": "list-alt",
+      "info": "glyphicon glyphicon-list-alt"
+    },
+    {
+      "icon": "lock",
+      "info": "glyphicon glyphicon-lock"
+    },
+    {
+      "icon": "flag",
+      "info": "glyphicon glyphicon-flag"
+    },
+    {
+      "icon": "headphones",
+      "info": "glyphicon glyphicon-headphones"
+    },
+    {
+      "icon": "volume-off",
+      "info": "glyphicon glyphicon-volume-off"
+    },
+    {
+      "icon": "volume-down",
+      "info": "glyphicon glyphicon-volume-down"
+    },
+    {
+      "icon": "volume-up",
+      "info": "glyphicon glyphicon-volume-up"
+    },
+    {
+      "icon": "qrcode",
+      "info": "glyphicon glyphicon-qrcode"
+    },
+    {
+      "icon": "barcode",
+      "info": "glyphicon glyphicon-barcode"
+    },
+    {
+      "icon": "tag",
+      "info": "glyphicon glyphicon-tag"
+    },
+    {
+      "icon": "tags",
+      "info": "glyphicon glyphicon-tags"
+    },
+    {
+      "icon": "book",
+      "info": "glyphicon glyphicon-book"
+    },
+    {
+      "icon": "bookmark",
+      "info": "glyphicon glyphicon-bookmark"
+    },
+    {
+      "icon": "print",
+      "info": "glyphicon glyphicon-print"
+    },
+    {
+      "icon": "camera",
+      "info": "glyphicon glyphicon-camera"
+    },
+    {
+      "icon": "font",
+      "info": "glyphicon glyphicon-font"
+    },
+    {
+      "icon": "bold",
+      "info": "glyphicon glyphicon-bold"
+    },
+    {
+      "icon": "italic",
+      "info": "glyphicon glyphicon-italic"
+    },
+    {
+      "icon": "text-height",
+      "info": "glyphicon glyphicon-text-height"
+    },
+    {
+      "icon": "text-width",
+      "info": "glyphicon glyphicon-text-width"
+    },
+    {
+      "icon": "align-left",
+      "info": "glyphicon glyphicon-align-left"
+    },
+    {
+      "icon": "align-center",
+      "info": "glyphicon glyphicon-align-center"
+    },
+    {
+      "icon": "align-right",
+      "info": "glyphicon glyphicon-align-right"
+    },
+    {
+      "icon": "align-justify",
+      "info": "glyphicon glyphicon-align-justify"
+    },
+    {
+      "icon": "list",
+      "info": "glyphicon glyphicon-list"
+    },
+    {
+      "icon": "indent-left",
+      "info": "glyphicon glyphicon-indent-left"
+    },
+    {
+      "icon": "indent-right",
+      "info": "glyphicon glyphicon-indent-right"
+    },
+    {
+      "icon": "facetime-video",
+      "info": "glyphicon glyphicon-facetime-video"
+    },
+    {
+      "icon": "picture",
+      "info": "glyphicon glyphicon-picture"
+    },
+    {
+      "icon": "map-marker",
+      "info": "glyphicon glyphicon-map-marker"
+    },
+    {
+      "icon": "adjust",
+      "info": "glyphicon glyphicon-adjust"
+    },
+    {
+      "icon": "tint",
+      "info": "glyphicon glyphicon-tint"
+    },
+    {
+      "icon": "edit",
+      "info": "glyphicon glyphicon-edit"
+    },
+    {
+      "icon": "share",
+      "info": "glyphicon glyphicon-share"
+    },
+    {
+      "icon": "check",
+      "info": "glyphicon glyphicon-check"
+    },
+    {
+      "icon": "move",
+      "info": "glyphicon glyphicon-move"
+    },
+    {
+      "icon": "step-backward",
+      "info": "glyphicon glyphicon-step-backward"
+    },
+    {
+      "icon": "fast-backward",
+      "info": "glyphicon glyphicon-fast-backward"
+    },
+    {
+      "icon": "backward",
+      "info": "glyphicon glyphicon-backward"
+    },
+    {
+      "icon": "play",
+      "info": "glyphicon glyphicon-play"
+    },
+    {
+      "icon": "pause",
+      "info": "glyphicon glyphicon-pause"
+    },
+    {
+      "icon": "stop",
+      "info": "glyphicon glyphicon-stop"
+    },
+    {
+      "icon": "forward",
+      "info": "glyphicon glyphicon-forward"
+    },
+    {
+      "icon": "fast-forward",
+      "info": "glyphicon glyphicon-fast-forward"
+    },
+    {
+      "icon": "step-forward",
+      "info": "glyphicon glyphicon-step-forward"
+    },
+    {
+      "icon": "eject",
+      "info": "glyphicon glyphicon-eject"
+    },
+    {
+      "icon": "chevron-left",
+      "info": "glyphicon glyphicon-chevron-left"
+    },
+    {
+      "icon": "chevron-right",
+      "info": "glyphicon glyphicon-chevron-right"
+    },
+    {
+      "icon": "plus-sign",
+      "info": "glyphicon glyphicon-plus-sign"
+    },
+    {
+      "icon": "minus-sign",
+      "info": "glyphicon glyphicon-minus-sign"
+    },
+    {
+      "icon": "remove-sign",
+      "info": "glyphicon glyphicon-remove-sign"
+    },
+    {
+      "icon": "ok-sign",
+      "info": "glyphicon glyphicon-ok-sign"
+    },
+    {
+      "icon": "question-sign",
+      "info": "glyphicon glyphicon-question-sign"
+    },
+    {
+      "icon": "info-sign",
+      "info": "glyphicon glyphicon-info-sign"
+    },
+    {
+      "icon": "screenshot",
+      "info": "glyphicon glyphicon-screenshot"
+    },
+    {
+      "icon": "remove-circle",
+      "info": "glyphicon glyphicon-remove-circle"
+    },
+    {
+      "icon": "ok-circle",
+      "info": "glyphicon glyphicon-ok-circle"
+    },
+    {
+      "icon": "ban-circle",
+      "info": "glyphicon glyphicon-ban-circle"
+    },
+    {
+      "icon": "arrow-left",
+      "info": "glyphicon glyphicon-arrow-left"
+    },
+    {
+      "icon": "arrow-right",
+      "info": "glyphicon glyphicon-arrow-right"
+    },
+    {
+      "icon": "arrow-up",
+      "info": "glyphicon glyphicon-arrow-up"
+    },
+    {
+      "icon": "arrow-down",
+      "info": "glyphicon glyphicon-arrow-down"
+    },
+    {
+      "icon": "share-alt",
+      "info": "glyphicon glyphicon-share-alt"
+    },
+    {
+      "icon": "resize-full",
+      "info": "glyphicon glyphicon-resize-full"
+    },
+    {
+      "icon": "resize-small",
+      "info": "glyphicon glyphicon-resize-small"
+    },
+    {
+      "icon": "exclamation-sign",
+      "info": "glyphicon glyphicon-exclamation-sign"
+    },
+    {
+      "icon": "gift",
+      "info": "glyphicon glyphicon-gift"
+    },
+    {
+      "icon": "leaf",
+      "info": "glyphicon glyphicon-leaf"
+    },
+    {
+      "icon": "fire",
+      "info": "glyphicon glyphicon-fire"
+    },
+    {
+      "icon": "eye-open",
+      "info": "glyphicon glyphicon-eye-open"
+    },
+    {
+      "icon": "eye-close",
+      "info": "glyphicon glyphicon-eye-close"
+    },
+    {
+      "icon": "warning-sign",
+      "info": "glyphicon glyphicon-warning-sign"
+    },
+    {
+      "icon": "plane",
+      "info": "glyphicon glyphicon-plane"
+    },
+    {
+      "icon": "calendar",
+      "info": "glyphicon glyphicon-calendar"
+    },
+    {
+      "icon": "random",
+      "info": "glyphicon glyphicon-random"
+    },
+    {
+      "icon": "comment",
+      "info": "glyphicon glyphicon-comment"
+    },
+    {
+      "icon": "magnet",
+      "info": "glyphicon glyphicon-magnet"
+    },
+    {
+      "icon": "chevron-up",
+      "info": "glyphicon glyphicon-chevron-up"
+    },
+    {
+      "icon": "chevron-down",
+      "info": "glyphicon glyphicon-chevron-down"
+    },
+    {
+      "icon": "retweet",
+      "info": "glyphicon glyphicon-retweet"
+    },
+    {
+      "icon": "shopping-cart",
+      "info": "glyphicon glyphicon-shopping-cart"
+    },
+    {
+      "icon": "folder-close",
+      "info": "glyphicon glyphicon-folder-close"
+    },
+    {
+      "icon": "folder-open",
+      "info": "glyphicon glyphicon-folder-open"
+    },
+    {
+      "icon": "resize-vertical",
+      "info": "glyphicon glyphicon-resize-vertical"
+    },
+    {
+      "icon": "resize-horizontal",
+      "info": "glyphicon glyphicon-resize-horizontal"
+    },
+    {
+      "icon": "hdd",
+      "info": "glyphicon glyphicon-hdd"
+    },
+    {
+      "icon": "bullhorn",
+      "info": "glyphicon glyphicon-bullhorn"
+    },
+    {
+      "icon": "bell",
+      "info": "glyphicon glyphicon-bell"
+    },
+    {
+      "icon": "certificate",
+      "info": "glyphicon glyphicon-certificate"
+    },
+    {
+      "icon": "thumbs-up",
+      "info": "glyphicon glyphicon-thumbs-up"
+    },
+    {
+      "icon": "thumbs-down",
+      "info": "glyphicon glyphicon-thumbs-down"
+    },
+    {
+      "icon": "hand-right",
+      "info": "glyphicon glyphicon-hand-right"
+    },
+    {
+      "icon": "hand-left",
+      "info": "glyphicon glyphicon-hand-left"
+    },
+    {
+      "icon": "hand-up",
+      "info": "glyphicon glyphicon-hand-up"
+    },
+    {
+      "icon": "hand-down",
+      "info": "glyphicon glyphicon-hand-down"
+    },
+    {
+      "icon": "circle-arrow-right",
+      "info": "glyphicon glyphicon-circle-arrow-right"
+    },
+    {
+      "icon": "circle-arrow-left",
+      "info": "glyphicon glyphicon-circle-arrow-left"
+    },
+    {
+      "icon": "circle-arrow-up",
+      "info": "glyphicon glyphicon-circle-arrow-up"
+    },
+    {
+      "icon": "circle-arrow-down",
+      "info": "glyphicon glyphicon-circle-arrow-down"
+    },
+    {
+      "icon": "globe",
+      "info": "glyphicon glyphicon-globe"
+    },
+    {
+      "icon": "wrench",
+      "info": "glyphicon glyphicon-wrench"
+    },
+    {
+      "icon": "tasks",
+      "info": "glyphicon glyphicon-tasks"
+    },
+    {
+      "icon": "filter",
+      "info": "glyphicon glyphicon-filter"
+    },
+    {
+      "icon": "briefcase",
+      "info": "glyphicon glyphicon-briefcase"
+    },
+    {
+      "icon": "fullscreen",
+      "info": "glyphicon glyphicon-fullscreen"
+    },
+    {
+      "icon": "dashboard",
+      "info": "glyphicon glyphicon-dashboard"
+    },
+    {
+      "icon": "paperclip",
+      "info": "glyphicon glyphicon-paperclip"
+    },
+    {
+      "icon": "heart-empty",
+      "info": "glyphicon glyphicon-heart-empty"
+    },
+    {
+      "icon": "link",
+      "info": "glyphicon glyphicon-link"
+    },
+    {
+      "icon": "phone",
+      "info": "glyphicon glyphicon-phone"
+    },
+    {
+      "icon": "pushpin",
+      "info": "glyphicon glyphicon-pushpin"
+    },
+    {
+      "icon": "usd",
+      "info": "glyphicon glyphicon-usd"
+    },
+    {
+      "icon": "gbp",
+      "info": "glyphicon glyphicon-gbp"
+    },
+    {
+      "icon": "sort",
+      "info": "glyphicon glyphicon-sort"
+    },
+    {
+      "icon": "sort-by-alphabet",
+      "info": "glyphicon glyphicon-sort-by-alphabet"
+    },
+    {
+      "icon": "sort-by-alphabet-alt",
+      "info": "glyphicon glyphicon-sort-by-alphabet-alt"
+    },
+    {
+      "icon": "sort-by-order",
+      "info": "glyphicon glyphicon-sort-by-order"
+    },
+    {
+      "icon": "sort-by-order-alt",
+      "info": "glyphicon glyphicon-sort-by-order-alt"
+    },
+    {
+      "icon": "sort-by-attributes",
+      "info": "glyphicon glyphicon-sort-by-attributes"
+    },
+    {
+      "icon": "sort-by-attributes-alt",
+      "info": "glyphicon glyphicon-sort-by-attributes-alt"
+    },
+    {
+      "icon": "unchecked",
+      "info": "glyphicon glyphicon-unchecked"
+    },
+    {
+      "icon": "expand",
+      "info": "glyphicon glyphicon-expand"
+    },
+    {
+      "icon": "collapse-down",
+      "info": "glyphicon glyphicon-collapse-down"
+    },
+    {
+      "icon": "collapse-up",
+      "info": "glyphicon glyphicon-collapse-up"
+    },
+    {
+      "icon": "log-in",
+      "info": "glyphicon glyphicon-log-in"
+    },
+    {
+      "icon": "flash",
+      "info": "glyphicon glyphicon-flash"
+    },
+    {
+      "icon": "log-out",
+      "info": "glyphicon glyphicon-log-out"
+    },
+    {
+      "icon": "new-window",
+      "info": "glyphicon glyphicon-new-window"
+    },
+    {
+      "icon": "record",
+      "info": "glyphicon glyphicon-record"
+    },
+    {
+      "icon": "save",
+      "info": "glyphicon glyphicon-save"
+    },
+    {
+      "icon": "open",
+      "info": "glyphicon glyphicon-open"
+    },
+    {
+      "icon": "saved",
+      "info": "glyphicon glyphicon-saved"
+    },
+    {
+      "icon": "import",
+      "info": "glyphicon glyphicon-import"
+    },
+    {
+      "icon": "export",
+      "info": "glyphicon glyphicon-export"
+    },
+    {
+      "icon": "send",
+      "info": "glyphicon glyphicon-send"
+    },
+    {
+      "icon": "floppy-disk",
+      "info": "glyphicon glyphicon-floppy-disk"
+    },
+    {
+      "icon": "floppy-saved",
+      "info": "glyphicon glyphicon-floppy-saved"
+    },
+    {
+      "icon": "floppy-remove",
+      "info": "glyphicon glyphicon-floppy-remove"
+    },
+    {
+      "icon": "floppy-save",
+      "info": "glyphicon glyphicon-floppy-save"
+    },
+    {
+      "icon": "floppy-open",
+      "info": "glyphicon glyphicon-floppy-open"
+    },
+    {
+      "icon": "credit-card",
+      "info": "glyphicon glyphicon-credit-card"
+    },
+    {
+      "icon": "transfer",
+      "info": "glyphicon glyphicon-transfer"
+    },
+    {
+      "icon": "cutlery",
+      "info": "glyphicon glyphicon-cutlery"
+    },
+    {
+      "icon": "header",
+      "info": "glyphicon glyphicon-header"
+    },
+    {
+      "icon": "compressed",
+      "info": "glyphicon glyphicon-compressed"
+    },
+    {
+      "icon": "earphone",
+      "info": "glyphicon glyphicon-earphone"
+    },
+    {
+      "icon": "phone-alt",
+      "info": "glyphicon glyphicon-phone-alt"
+    },
+    {
+      "icon": "tower",
+      "info": "glyphicon glyphicon-tower"
+    },
+    {
+      "icon": "stats",
+      "info": "glyphicon glyphicon-stats"
+    },
+    {
+      "icon": "sd-video",
+      "info": "glyphicon glyphicon-sd-video"
+    },
+    {
+      "icon": "hd-video",
+      "info": "glyphicon glyphicon-hd-video"
+    },
+    {
+      "icon": "subtitles",
+      "info": "glyphicon glyphicon-subtitles"
+    },
+    {
+      "icon": "sound-stereo",
+      "info": "glyphicon glyphicon-sound-stereo"
+    },
+    {
+      "icon": "sound-dolby",
+      "info": "glyphicon glyphicon-sound-dolby"
+    },
+    {
+      "icon": "sound-5-1",
+      "info": "glyphicon glyphicon-sound-5-1"
+    },
+    {
+      "icon": "sound-6-1",
+      "info": "glyphicon glyphicon-sound-6-1"
+    },
+    {
+      "icon": "sound-7-1",
+      "info": "glyphicon glyphicon-sound-7-1"
+    },
+    {
+      "icon": "copyright-mark",
+      "info": "glyphicon glyphicon-copyright-mark"
+    },
+    {
+      "icon": "registration-mark",
+      "info": "glyphicon glyphicon-registration-mark"
+    },
+    {
+      "icon": "cloud-download",
+      "info": "glyphicon glyphicon-cloud-download"
+    },
+    {
+      "icon": "cloud-upload",
+      "info": "glyphicon glyphicon-cloud-upload"
+    },
+    {
+      "icon": "tree-conifer",
+      "info": "glyphicon glyphicon-tree-conifer"
+    },
+    {
+      "icon": "tree-deciduous",
+      "info": "glyphicon glyphicon-tree-deciduous"
+    },
+    {
+      "icon": "cd",
+      "info": "glyphicon glyphicon-cd"
+    },
+    {
+      "icon": "save-file",
+      "info": "glyphicon glyphicon-save-file"
+    },
+    {
+      "icon": "open-file",
+      "info": "glyphicon glyphicon-open-file"
+    },
+    {
+      "icon": "level-up",
+      "info": "glyphicon glyphicon-level-up"
+    },
+    {
+      "icon": "copy",
+      "info": "glyphicon glyphicon-copy"
+    },
+    {
+      "icon": "paste",
+      "info": "glyphicon glyphicon-paste"
+    },
+    {
+      "icon": "alert",
+      "info": "glyphicon glyphicon-alert"
+    },
+    {
+      "icon": "equalizer",
+      "info": "glyphicon glyphicon-equalizer"
+    },
+    {
+      "icon": "king",
+      "info": "glyphicon glyphicon-king"
+    },
+    {
+      "icon": "queen",
+      "info": "glyphicon glyphicon-queen"
+    },
+    {
+      "icon": "pawn",
+      "info": "glyphicon glyphicon-pawn"
+    },
+    {
+      "icon": "bishop",
+      "info": "glyphicon glyphicon-bishop"
+    },
+    {
+      "icon": "knight",
+      "info": "glyphicon glyphicon-knight"
+    },
+    {
+      "icon": "baby-formula",
+      "info": "glyphicon glyphicon-baby-formula"
+    },
+    {
+      "icon": "tent",
+      "info": "glyphicon glyphicon-tent"
+    },
+    {
+      "icon": "blackboard",
+      "info": "glyphicon glyphicon-blackboard"
+    },
+    {
+      "icon": "bed",
+      "info": "glyphicon glyphicon-bed"
+    },
+    {
+      "icon": "apple",
+      "info": "glyphicon glyphicon-apple"
+    },
+    {
+      "icon": "erase",
+      "info": "glyphicon glyphicon-erase"
+    },
+    {
+      "icon": "hourglass",
+      "info": "glyphicon glyphicon-hourglass"
+    },
+    {
+      "icon": "lamp",
+      "info": "glyphicon glyphicon-lamp"
+    },
+    {
+      "icon": "duplicate",
+      "info": "glyphicon glyphicon-duplicate"
+    },
+    {
+      "icon": "piggy-bank",
+      "info": "glyphicon glyphicon-piggy-bank"
+    },
+    {
+      "icon": "scissors",
+      "info": "glyphicon glyphicon-scissors"
+    },
+    {
+      "icon": "bitcoin",
+      "info": "glyphicon glyphicon-bitcoin"
+    },
+    {
+      "icon": "yen",
+      "info": "glyphicon glyphicon-yen"
+    },
+    {
+      "icon": "ruble",
+      "info": "glyphicon glyphicon-ruble"
+    },
+    {
+      "icon": "scale",
+      "info": "glyphicon glyphicon-scale"
+    },
+    {
+      "icon": "ice-lolly",
+      "info": "glyphicon glyphicon-ice-lolly"
+    },
+    {
+      "icon": "ice-lolly-tasted",
+      "info": "glyphicon glyphicon-ice-lolly-tasted"
+    },
+    {
+      "icon": "education",
+      "info": "glyphicon glyphicon-education"
+    },
+    {
+      "icon": "option-horizontal",
+      "info": "glyphicon glyphicon-option-horizontal"
+    },
+    {
+      "icon": "option-vertical",
+      "info": "glyphicon glyphicon-option-vertical"
+    },
+    {
+      "icon": "menu-hamburger",
+      "info": "glyphicon glyphicon-menu-hamburger"
+    },
+    {
+      "icon": "modal-window",
+      "info": "glyphicon glyphicon-modal-window"
+    },
+    {
+      "icon": "oil",
+      "info": "glyphicon glyphicon-oil"
+    },
+    {
+      "icon": "grain",
+      "info": "glyphicon glyphicon-grain"
+    },
+    {
+      "icon": "sunglasses",
+      "info": "glyphicon glyphicon-sunglasses"
+    },
+    {
+      "icon": "text-size",
+      "info": "glyphicon glyphicon-text-size"
+    },
+    {
+      "icon": "text-color",
+      "info": "glyphicon glyphicon-text-color"
+    },
+    {
+      "icon": "text-background",
+      "info": "glyphicon glyphicon-text-background"
+    },
+    {
+      "icon": "object-align-top",
+      "info": "glyphicon glyphicon-object-align-top"
+    },
+    {
+      "icon": "object-align-bottom",
+      "info": "glyphicon glyphicon-object-align-bottom"
+    },
+    {
+      "icon": "object-align-horizontal",
+      "info": "glyphicon glyphicon-object-align-horizontal"
+    },
+    {
+      "icon": "object-align-left",
+      "info": "glyphicon glyphicon-object-align-left"
+    },
+    {
+      "icon": "object-align-vertical",
+      "info": "glyphicon glyphicon-object-align-vertical"
+    },
+    {
+      "icon": "object-align-right",
+      "info": "glyphicon glyphicon-object-align-right"
+    },
+    {
+      "icon": "triangle-right",
+      "info": "glyphicon glyphicon-triangle-right"
+    },
+    {
+      "icon": "triangle-left",
+      "info": "glyphicon glyphicon-triangle-left"
+    },
+    {
+      "icon": "triangle-bottom",
+      "info": "glyphicon glyphicon-triangle-bottom"
+    },
+    {
+      "icon": "triangle-top",
+      "info": "glyphicon glyphicon-triangle-top"
+    },
+    {
+      "icon": "console",
+      "info": "glyphicon glyphicon-console"
+    },
+    {
+      "icon": "superscript",
+      "info": "glyphicon glyphicon-superscript"
+    },
+    {
+      "icon": "subscript",
+      "info": "glyphicon glyphicon-subscript"
+    },
+    {
+      "icon": "menu-left",
+      "info": "glyphicon glyphicon-menu-left"
+    },
+    {
+      "icon": "menu-right",
+      "info": "glyphicon glyphicon-menu-right"
+    },
+    {
+      "icon": "menu-down",
+      "info": "glyphicon glyphicon-menu-down"
+    },
+    {
+      "icon": "menu-up",
+      "info": "glyphicon glyphicon-menu-up"
+    }
+  ]
+}

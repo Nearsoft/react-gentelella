@@ -1,0 +1,1297 @@
+{
+  "web-application": {
+    "header": "Web Application Icons",
+    "icons": [
+      "adjust",
+
+      "anchor",
+
+      "archive",
+
+      "area-chart",
+
+      "arrows",
+
+      "arrows-h",
+
+      "arrows-v",
+
+      "asterisk",
+
+      "at",
+
+      { "alias": "automobile" },
+
+      "ban",
+
+      { "alias": "bank" },
+
+      "bar-chart",
+
+      { "alias": "bar-chart-o" },
+
+      "barcode",
+
+      "bars",
+
+      "beer",
+
+      "bell",
+
+      "bell-o",
+
+      "bell-slash",
+
+      "bell-slash-o",
+
+      "bicycle",
+
+      "binoculars",
+
+      "birthday-cake",
+
+      "bolt",
+
+      "bomb",
+
+      "book",
+
+      "bookmark",
+
+      "bookmark-o",
+
+      "briefcase",
+
+      "bug",
+
+      "building",
+
+      "building-o",
+
+      "bullhorn",
+
+      "bullseye",
+
+      "bus",
+
+      { "alias": "cab" },
+
+      "calculator",
+
+      "calendar",
+
+      "calendar-o",
+
+      "camera",
+
+      "camera-retro",
+
+      "car",
+
+      "caret-square-o-down",
+
+      "caret-square-o-left",
+
+      "caret-square-o-right",
+
+      "caret-square-o-up",
+
+      "cc",
+
+      "certificate",
+
+      "check",
+
+      "check-circle",
+
+      "check-circle-o",
+
+      "check-square",
+
+      "check-square-o",
+
+      "child",
+
+      "circle",
+
+      "circle-o",
+
+      "circle-o-notch",
+
+      "circle-thin",
+
+      "clock-o",
+
+      { "alias": "close" },
+
+      "cloud",
+
+      "cloud-download",
+
+      "cloud-upload",
+
+      "code",
+
+      "code-fork",
+
+      "coffee",
+
+      "cog",
+
+      "cogs",
+
+      "comment",
+
+      "comment-o",
+
+      "comments",
+
+      "comments-o",
+
+      "compass",
+
+      "copyright",
+
+      "credit-card",
+
+      "crop",
+
+      "crosshairs",
+
+      "cube",
+
+      "cubes",
+
+      "cutlery",
+
+      { "alias": "dashboard" },
+
+      "database",
+
+      "desktop",
+
+      "dot-circle-o",
+
+      "download",
+
+      { "alias": "edit" },
+
+      "ellipsis-h",
+
+      "ellipsis-v",
+
+      "envelope",
+
+      "envelope-o",
+
+      "envelope-square",
+
+      "eraser",
+
+      "exchange",
+
+      "exclamation",
+
+      "exclamation-circle",
+
+      "exclamation-triangle",
+
+      "external-link",
+
+      "external-link-square",
+
+      "eye",
+
+      "eye-slash",
+
+      "eyedropper",
+
+      "fax",
+
+      "female",
+
+      "fighter-jet",
+
+      "file-archive-o",
+
+      "file-audio-o",
+
+      "file-code-o",
+
+      "file-excel-o",
+
+      "file-image-o",
+
+      { "alias": "file-movie-o" },
+
+      "file-pdf-o",
+
+      { "alias": "file-photo-o" },
+
+      { "alias": "file-picture-o" },
+
+      "file-powerpoint-o",
+
+      { "alias": "file-sound-o" },
+
+      "file-video-o",
+
+      "file-word-o",
+
+      { "alias": "file-zip-o" },
+
+      "film",
+
+      "filter",
+
+      "fire",
+
+      "fire-extinguisher",
+
+      "flag",
+
+      "flag-checkered",
+
+      "flag-o",
+
+      { "alias": "flash" },
+
+      "flask",
+
+      "folder",
+
+      "folder-o",
+
+      "folder-open",
+
+      "folder-open-o",
+
+      "frown-o",
+
+      "futbol-o",
+
+      "gamepad",
+
+      "gavel",
+
+      { "alias": "gear" },
+
+      { "alias": "gears" },
+
+      "gift",
+
+      "glass",
+
+      "globe",
+
+      "graduation-cap",
+
+      { "alias": "group" },
+
+      "hdd-o",
+
+      "headphones",
+
+      "heart",
+
+      "heart-o",
+
+      "history",
+
+      "home",
+
+      { "alias": "image" },
+
+      "inbox",
+
+      "info",
+
+      "info-circle",
+
+      { "alias": "institution" },
+
+      "key",
+
+      "keyboard-o",
+
+      "language",
+
+      "laptop",
+
+      "leaf",
+
+      { "alias": "legal" },
+
+      "lemon-o",
+
+      "level-down",
+
+      "level-up",
+
+      { "alias": "life-bouy" },
+
+      { "alias": "life-buoy" },
+
+      "life-ring",
+
+      { "alias": "life-saver" },
+
+      "lightbulb-o",
+
+      "line-chart",
+
+      "location-arrow",
+
+      "lock",
+
+      "magic",
+
+      "magnet",
+
+      { "alias": "mail-forward" },
+
+      { "alias": "mail-reply" },
+
+      { "alias": "mail-reply-all" },
+
+      "male",
+
+      "map-marker",
+
+      "meh-o",
+
+      "microphone",
+
+      "microphone-slash",
+
+      "minus",
+
+      "minus-circle",
+
+      "minus-square",
+
+      "minus-square-o",
+
+      "mobile",
+
+      { "alias": "mobile-phone" },
+
+      "money",
+
+      "moon-o",
+
+      { "alias": "mortar-board" },
+
+      "music",
+
+      { "alias": "navicon" },
+
+      "newspaper-o",
+
+      "paint-brush",
+
+      "paper-plane",
+
+      "paper-plane-o",
+
+      "paw",
+
+      "pencil",
+
+      "pencil-square",
+
+      "pencil-square-o",
+
+      "phone",
+
+      "phone-square",
+
+      { "alias": "photo" },
+
+      "picture-o",
+
+      "pie-chart",
+
+      "plane",
+
+      "plug",
+
+      "plus",
+
+      "plus-circle",
+
+      "plus-square",
+
+      "plus-square-o",
+
+      "power-off",
+
+      "print",
+
+      "puzzle-piece",
+
+      "qrcode",
+
+      "question",
+
+      "question-circle",
+
+      "quote-left",
+
+      "quote-right",
+
+      "random",
+
+      "recycle",
+
+      "refresh",
+
+      { "alias": "remove" },
+
+      { "alias": "reorder" },
+
+      "reply",
+
+      "reply-all",
+
+      "retweet",
+
+      "road",
+
+      "rocket",
+
+      "rss",
+
+      "rss-square",
+
+      "search",
+
+      "search-minus",
+
+      "search-plus",
+
+      { "alias": "send" },
+
+      { "alias": "send-o" },
+
+      "share",
+
+      "share-alt",
+
+      "share-alt-square",
+
+      "share-square",
+
+      "share-square-o",
+
+      "shield",
+
+      "shopping-cart",
+
+      "sign-in",
+
+      "sign-out",
+
+      "signal",
+
+      "sitemap",
+
+      "sliders",
+
+      "smile-o",
+
+      { "alias": "soccer-ball-o" },
+
+      "sort",
+
+      "sort-alpha-asc",
+
+      "sort-alpha-desc",
+
+      "sort-amount-asc",
+
+      "sort-amount-desc",
+
+      "sort-asc",
+
+      "sort-desc",
+
+      { "alias": "sort-down" },
+
+      "sort-numeric-asc",
+
+      "sort-numeric-desc",
+
+      { "alias": "sort-up" },
+
+      "space-shuttle",
+
+      "spinner",
+
+      "spoon",
+
+      "square",
+
+      "square-o",
+
+      "star",
+
+      "star-half",
+
+      { "alias": "star-half-empty" },
+
+      { "alias": "star-half-full" },
+
+      "star-half-o",
+
+      "star-o",
+
+      "suitcase",
+
+      "sun-o",
+
+      { "alias": "support" },
+
+      "tablet",
+
+      "tachometer",
+
+      "tag",
+
+      "tags",
+
+      "tasks",
+
+      "taxi",
+
+      "terminal",
+
+      "thumb-tack",
+
+      "thumbs-down",
+
+      "thumbs-o-down",
+
+      "thumbs-o-up",
+
+      "thumbs-up",
+
+      "ticket",
+
+      "times",
+
+      "times-circle",
+
+      "times-circle-o",
+
+      "tint",
+
+      { "alias": "toggle-down" },
+
+      { "alias": "toggle-left" },
+
+      "toggle-off",
+
+      "toggle-on",
+
+      { "alias": "toggle-right" },
+
+      { "alias": "toggle-up" },
+
+      "trash",
+
+      "trash-o",
+
+      "tree",
+
+      "trophy",
+
+      "truck",
+
+      "tty",
+
+      "umbrella",
+
+      "university",
+
+      "unlock",
+
+      "unlock-alt",
+
+      { "alias": "unsorted" },
+
+      "upload",
+
+      "user",
+
+      "users",
+
+      "video-camera",
+
+      "volume-down",
+
+      "volume-off",
+
+      "volume-up",
+
+      { "alias": "warning" },
+
+      "wheelchair",
+
+      "wifi",
+
+      "wrench"
+    ]
+  },
+
+  "file-type": {
+    "header": "File Type Icons",
+    "icons": [
+      "file",
+
+      "file-archive-o",
+
+      "file-audio-o",
+
+      "file-code-o",
+
+      "file-excel-o",
+
+      "file-image-o",
+
+      { "alias": "file-movie-o" },
+
+      "file-o",
+
+      "file-pdf-o",
+
+      { "alias": "file-photo-o" },
+
+      { "alias": "file-picture-o" },
+
+      "file-powerpoint-o",
+
+      { "alias": "file-sound-o" },
+
+      "file-text",
+
+      "file-text-o",
+
+      "file-video-o",
+
+      "file-word-o",
+
+      { "alias": "file-zip-o" }
+    ]
+  },
+
+  "spinner": {
+    "header": "Spinner Icons",
+    "icons": [
+      "circle-o-notch",
+
+      "cog",
+
+      { "alias": "gear" },
+
+      "refresh",
+
+      "spinner"
+    ]
+  },
+
+  "form-control": {
+    "header": "Form Control Icons",
+    "icons": [
+      "check-square",
+
+      "check-square-o",
+
+      "circle",
+
+      "circle-o",
+
+      "dot-circle-o",
+
+      "minus-square",
+
+      "minus-square-o",
+
+      "plus-square",
+
+      "plus-square-o",
+
+      "square",
+
+      "square-o"
+    ]
+  },
+
+  "payment": {
+    "header": "Payment Icons",
+    "icons": [
+      "cc-amex",
+
+      "cc-discover",
+
+      "cc-mastercard",
+
+      "cc-paypal",
+
+      "cc-stripe",
+
+      "cc-visa",
+
+      "credit-card",
+
+      "google-wallet",
+
+      "paypal"
+    ]
+  },
+
+  "chart": {
+    "header": "Chart Icons",
+    "icons": [
+      "area-chart",
+
+      "bar-chart",
+
+      { "alias": "bar-chart-o" },
+
+      "line-chart",
+
+      "pie-chart"
+    ]
+  },
+
+  "currency": {
+    "header": "Currency Icons",
+    "icons": [
+      { "alias": "bitcoin" },
+
+      "btc",
+
+      { "alias": "cny" },
+
+      { "alias": "dollar" },
+
+      "eur",
+
+      { "alias": "euro" },
+
+      "gbp",
+
+      "ils",
+
+      "inr",
+
+      "jpy",
+
+      "krw",
+
+      "money",
+
+      { "alias": "rmb" },
+
+      { "alias": "rouble" },
+
+      "rub",
+
+      { "alias": "ruble" },
+
+      { "alias": "rupee" },
+
+      { "alias": "shekel" },
+
+      { "alias": "sheqel" },
+
+      "try",
+
+      { "alias": "turkish-lira" },
+
+      "usd",
+
+      { "alias": "won" },
+
+      { "alias": "yen" }
+    ]
+  },
+
+  "text-editor": {
+    "header": "Text Editor Icons",
+    "icons": [
+      "align-center",
+
+      "align-justify",
+
+      "align-left",
+
+      "align-right",
+
+      "bold",
+
+      { "alias": "chain" },
+
+      "chain-broken",
+
+      "clipboard",
+
+      "columns",
+
+      { "alias": "copy" },
+
+      { "alias": "cut" },
+
+      { "alias": "dedent" },
+
+      "eraser",
+
+      "file",
+
+      "file-o",
+
+      "file-text",
+
+      "file-text-o",
+
+      "files-o",
+
+      "floppy-o",
+
+      "font",
+
+      "header",
+
+      "indent",
+
+      "italic",
+
+      "link",
+
+      "list",
+
+      "list-alt",
+
+      "list-ol",
+
+      "list-ul",
+
+      "outdent",
+
+      "paperclip",
+
+      "paragraph",
+
+      { "alias": "paste" },
+
+      "repeat",
+
+      { "alias": "rotate-left" },
+
+      { "alias": "rotate-right" },
+
+      { "alias": "save" },
+
+      "scissors",
+
+      "strikethrough",
+
+      "subscript",
+
+      "superscript",
+
+      "table",
+
+      "text-height",
+
+      "text-width",
+
+      "th",
+
+      "th-large",
+
+      "th-list",
+
+      "underline",
+
+      "undo",
+
+      { "alias": "unlink" }
+    ]
+  },
+
+  "directional": {
+    "header": "Directional Icons",
+    "icons": [
+      "angle-double-down",
+
+      "angle-double-left",
+
+      "angle-double-right",
+
+      "angle-double-up",
+
+      "angle-down",
+
+      "angle-left",
+
+      "angle-right",
+
+      "angle-up",
+
+      "arrow-circle-down",
+
+      "arrow-circle-left",
+
+      "arrow-circle-o-down",
+
+      "arrow-circle-o-left",
+
+      "arrow-circle-o-right",
+
+      "arrow-circle-o-up",
+
+      "arrow-circle-right",
+
+      "arrow-circle-up",
+
+      "arrow-down",
+
+      "arrow-left",
+
+      "arrow-right",
+
+      "arrow-up",
+
+      "arrows",
+
+      "arrows-alt",
+
+      "arrows-h",
+
+      "arrows-v",
+
+      "caret-down",
+
+      "caret-left",
+
+      "caret-right",
+
+      "caret-square-o-down",
+
+      "caret-square-o-left",
+
+      "caret-square-o-right",
+
+      "caret-square-o-up",
+
+      "caret-up",
+
+      "chevron-circle-down",
+
+      "chevron-circle-left",
+
+      "chevron-circle-right",
+
+      "chevron-circle-up",
+
+      "chevron-down",
+
+      "chevron-left",
+
+      "chevron-right",
+
+      "chevron-up",
+
+      "hand-o-down",
+
+      "hand-o-left",
+
+      "hand-o-right",
+
+      "hand-o-up",
+
+      "long-arrow-down",
+
+      "long-arrow-left",
+
+      "long-arrow-right",
+
+      "long-arrow-up",
+
+      { "alias": "toggle-down" },
+
+      { "alias": "toggle-left" },
+
+      { "alias": "toggle-right" },
+
+      { "alias": "toggle-up" }
+    ]
+  },
+
+  "video-player": {
+    "header": "Video Player Icons",
+    "icons": [
+      "arrows-alt",
+
+      "backward",
+
+      "compress",
+
+      "eject",
+
+      "expand",
+
+      "fast-backward",
+
+      "fast-forward",
+
+      "forward",
+
+      "pause",
+
+      "play",
+
+      "play-circle",
+
+      "play-circle-o",
+
+      "step-backward",
+
+      "step-forward",
+
+      "stop",
+
+      "youtube-play"
+    ]
+  },
+
+  "brand": {
+    "header": "Brand Icons",
+    "icons": [
+      "adn",
+
+      "android",
+
+      "angellist",
+
+      "apple",
+
+      "behance",
+
+      "behance-square",
+
+      "bitbucket",
+
+      "bitbucket-square",
+
+      { "alias": "bitcoin" },
+
+      "btc",
+
+      "cc-amex",
+
+      "cc-discover",
+
+      "cc-mastercard",
+
+      "cc-paypal",
+
+      "cc-stripe",
+
+      "cc-visa",
+
+      "codepen",
+
+      "css3",
+
+      "delicious",
+
+      "deviantart",
+
+      "digg",
+
+      "dribbble",
+
+      "dropbox",
+
+      "drupal",
+
+      "empire",
+
+      "facebook",
+
+      "facebook-square",
+
+      "flickr",
+
+      "foursquare",
+
+      { "alias": "ge" },
+
+      "git",
+
+      "git-square",
+
+      "github",
+
+      "github-alt",
+
+      "github-square",
+
+      "gittip",
+
+      "google",
+
+      "google-plus",
+
+      "google-plus-square",
+
+      "google-wallet",
+
+      "hacker-news",
+
+      "html5",
+
+      "instagram",
+
+      "ioxhost",
+
+      "joomla",
+
+      "jsfiddle",
+
+      "lastfm",
+
+      "lastfm-square",
+
+      "linkedin",
+
+      "linkedin-square",
+
+      "linux",
+
+      "maxcdn",
+
+      "meanpath",
+
+      "openid",
+
+      "pagelines",
+
+      "paypal",
+
+      "pied-piper",
+
+      "pied-piper-alt",
+
+      "pinterest",
+
+      "pinterest-square",
+
+      "qq",
+
+      { "alias": "ra" },
+
+      "rebel",
+
+      "reddit",
+
+      "reddit-square",
+
+      "renren",
+
+      "share-alt",
+
+      "share-alt-square",
+
+      "skype",
+
+      "slack",
+
+      "slideshare",
+
+      "soundcloud",
+
+      "spotify",
+
+      "stack-exchange",
+
+      "stack-overflow",
+
+      "steam",
+
+      "steam-square",
+
+      "stumbleupon",
+
+      "stumbleupon-circle",
+
+      "tencent-weibo",
+
+      "trello",
+
+      "tumblr",
+
+      "tumblr-square",
+
+      "twitch",
+
+      "twitter",
+
+      "twitter-square",
+
+      "vimeo-square",
+
+      "vine",
+
+      "vk",
+
+      { "alias": "wechat" },
+
+      "weibo",
+
+      "weixin",
+
+      "windows",
+
+      "wordpress",
+
+      "xing",
+
+      "xing-square",
+
+      "yahoo",
+
+      "yelp",
+
+      "youtube",
+
+      "youtube-play",
+
+      "youtube-square"
+    ]
+  },
+
+  "medical": {
+    "header": "Medical Icons",
+    "icons": [
+      "ambulance",
+
+      "h-square",
+
+      "hospital-o",
+
+      "medkit",
+
+      "plus-square",
+
+      "stethoscope",
+
+      "user-md",
+
+      "wheelchair"
+    ]
+  }
+}
