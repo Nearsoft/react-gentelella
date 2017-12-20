@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { matchPath } from 'react-router'
+// import { matchPath } from 'react-router'
 import SharedState from '../../components/SharedState'
 import MenuSection from './MenuSection'
 import GroupMenuItem from './GroupMenuItem'
@@ -12,7 +12,7 @@ class SideBar extends Component {
     super(props)
     this.shared = SharedState(this, {
       toggle: (section, group) => {
-        const activeGroup = group === this.activeGroup ? null: group
+        const activeGroup = group === this.activeGroup ? null : group
         const activeSection = group ? section : null
         this.setState({ activeGroup, activeSection })
       }
@@ -22,13 +22,13 @@ class SideBar extends Component {
       activeGroup: null
     }
   }
-  
-  render () {
+
+  render() {
     const { children } = this.props
 
     return (
       <div id="sidebar-menu" className="main_menu_side hidden-print main_menu">
-        { childrenWithProps(children, {shared: this.shared})}
+        { childrenWithProps(children, { shared: this.shared }) }
       </div>
     )
   }
