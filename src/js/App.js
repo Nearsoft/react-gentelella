@@ -1,26 +1,24 @@
-import React, { Component } from 'react'
-import { Left, Top, Footer } from './navigation'
-import history from './history'
-import { Router } from 'react-router'
-import PageContent, { Menu } from './routes'
+export default function (React, Router, history, Left, Top, Footer, PageContent, Menu) {
 
-class App extends Component {
-  render() {
-    return (
-      <Router history={history}>
-        <div className="container body">
-          <div className="main_container">
+  class App extends React.Component {
+    render() {
+      return (
+        <Router history={ history }>
+          <div className="container body">
+            <div className="main_container">
               <Left>
-                {Menu}
+                { Menu }
               </Left>
-              <Top />
-              <PageContent />
-              <Footer />
+              <Top/>
+              <PageContent/>
+              <Footer/>
+            </div>
           </div>
-        </div>
-      </Router>
-    );
+        </Router>
+      );
+    }
   }
-}
 
-export default App;
+  return App;
+
+};
