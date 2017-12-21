@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/Nearsoft/react-gentelella.svg?branch=master)](https://travis-ci.org/Nearsoft/react-gentelella)
+[![codecov](https://codecov.io/gh/Nearsoft/react-gentelella/branch/master/graph/badge.svg)](https://codecov.io/gh/Nearsoft/react-gentelella)
+
 # React - Gentelella
 
 React implementation of [Gentelella](https://github.com/puikinsh/gentelella), a open source Bootstrap 3 Admin Template.
