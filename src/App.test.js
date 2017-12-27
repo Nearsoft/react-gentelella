@@ -1,4 +1,4 @@
-/* global describe, it */
+/* global it */
 
 import React from 'react';
 import ReactDOM from 'react-dom';
